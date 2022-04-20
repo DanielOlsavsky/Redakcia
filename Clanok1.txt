@@ -1,11 +1,7 @@
 <<<<<<< HEAD
 UVOD jedna
 Jadro dva
-<<<<<<< HEAD
 =======
 UVOD tri
 Jadro Styri
 >>>>>>> druha
-=======
-JADro2 4
->>>>>>> prva
